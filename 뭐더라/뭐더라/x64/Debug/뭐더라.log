@@ -1,0 +1,23 @@
+﻿  CalcScore.c
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(8,2): error C2065: 'Student': 선언되지 않은 식별자입니다.
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(8,10): error C2146: 구문 오류: ';'이(가) 's' 식별자 앞에 없습니다.
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(8,10): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(8,11): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(14,17): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(14,18): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(14,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(14,10):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+      C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(14,10):
+      누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+  
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(20,25): error C2065: 's': 선언되지 않은 식별자입니다.
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(20,26): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(20,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(20,10):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+      C:\D\C_1500_klw\workspace\뭐더라\뭐더라\CalcScore.c(20,10):
+      누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+  
+  Structfullt.c
+  코드를 생성하고 있습니다...
