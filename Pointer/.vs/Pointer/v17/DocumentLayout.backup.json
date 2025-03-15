@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\D\\C_1500_klw\\workspace\\pointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E67313B1-AF41-4144-B8AE-62E4F7E92A36}|pointer\\pointer.vcxproj|C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\MallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E67313B1-AF41-4144-B8AE-62E4F7E92A36}|pointer\\pointer.vcxproj|solutionrelative:pointer\\MallocChar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E67313B1-AF41-4144-B8AE-62E4F7E92A36}|pointer\\pointer.vcxproj|C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\Mallocint2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E67313B1-AF41-4144-B8AE-62E4F7E92A36}|pointer\\pointer.vcxproj|solutionrelative:pointer\\Mallocint2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -43,19 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MallocChar.c",
+              "DocumentMoniker": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\MallocChar.c",
+              "RelativeDocumentMoniker": "pointer\\MallocChar.c",
+              "ToolTip": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\MallocChar.c",
+              "RelativeToolTip": "pointer\\MallocChar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T00:42:50.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Mallocint2.c",
               "DocumentMoniker": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\Mallocint2.c",
               "RelativeDocumentMoniker": "pointer\\Mallocint2.c",
               "ToolTip": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\Mallocint2.c",
               "RelativeToolTip": "pointer\\Mallocint2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-15T00:24:15.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Mallocint.c",
               "DocumentMoniker": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\Mallocint.c",
               "RelativeDocumentMoniker": "pointer\\Mallocint.c",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PointerString.c",
               "DocumentMoniker": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\PointerString.c",
               "RelativeDocumentMoniker": "pointer\\PointerString.c",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PointerArray.c",
               "DocumentMoniker": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\PointerArray.c",
               "RelativeDocumentMoniker": "pointer\\PointerArray.c",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Pointer.c",
               "DocumentMoniker": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\Pointer.c",
               "RelativeDocumentMoniker": "pointer\\Pointer.c",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ChangeArray.c",
               "DocumentMoniker": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\ChangeArray.c",
               "RelativeDocumentMoniker": "pointer\\ChangeArray.c",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CallByRef.c",
               "DocumentMoniker": "C:\\D\\C_1500_klw\\workspace\\pointer\\pointer\\CallByRef.c",
               "RelativeDocumentMoniker": "pointer\\CallByRef.c",
